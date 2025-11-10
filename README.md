@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Software Engineer
+- AX Division > IAM Kit Unit
+- Engineer Relations > Tech Evangelist
+- SuperNova > Global Performance Measurement
+- SuperNova > Storage Optimizatio
+
 <!--
 **ccn-hyun-seungmin/ccn-hyun-seungmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
